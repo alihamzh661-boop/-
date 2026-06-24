@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Speed Motion Lines in Gold -->
+    <path
+        android:strokeColor="#EAB308"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M 16,42 H 24 M 10,51 H 22 M 14,60 H 24" />
+
+    <!-- Main Truck Container Body in Silver/White -->
+    <path
+        android:fillColor="#F1F5F9"
+        android:pathData="M 28,34 h 38 v 32 h -38 z" />
+        
+    <!-- Truck Cabin in Silver/White -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M 66,42 h 16 l 8,10 v 14 h -24 z" />
+        
+    <!-- Truck Cabin Window (dark blue cutout) -->
+    <path
+        android:fillColor="#002D62"
+        android:pathData="M 70,46 h 10 l 4,6 h -14 z" />
+        
+    <!-- Big Bold Tires with Gold Rims -->
+    <!-- Front Wheel Outer Circle at (78, 68) -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M 71,68 a 7,7 0 1,0 14,0 a 7,7 0 1,0 -14,0" />
+    <!-- Front Wheel Inner Circle (Gold Rim) -->
+    <path
+        android:fillColor="#EAB308"
+        android:pathData="M 75,68 a 3,3 0 1,0 6,0 a 3,3 0 1,0 -6,0" />
+
+    <!-- Rear Wheel Outer Circle at (38, 68) -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M 31,68 a 7,7 0 1,0 14,0 a 7,7 0 1,0 -14,0" />
+    <!-- Rear Wheel Inner Circle (Gold Rim) -->
+    <path
+        android:fillColor="#EAB308"
+        android:pathData="M 35,68 a 3,3 0 1,0 6,0 a 3,3 0 1,0 -6,0" />
+
+    <!-- Cargo Box Accent Decal (Express Arrow in Gold) -->
+    <path
+        android:strokeColor="#EAB308"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 40,50 L 48,50 L 44,56 L 52,56" />
+
+</vector>

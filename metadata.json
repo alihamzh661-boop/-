@@ -1,0 +1,8 @@
+{
+  "name": "Remix: الشعيب اكسبريس",
+  "description": "تطبيق توصيل وخدمات متكامل لمنطقة الشعيب يربط العملاء والمتاجر والكباتن والإدارة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
